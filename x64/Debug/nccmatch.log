@@ -1,0 +1,9 @@
+﻿  nccplus.cpp
+D:\program\opencvworkplace\homework\nccplus.cpp(108,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\program\opencvworkplace\homework\nccplus.cpp(108,24): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\program\opencvworkplace\homework\nccplus.cpp(133,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\program\opencvworkplace\homework\nccplus.cpp(135,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\program\opencvworkplace\homework\nccplus.cpp(137,11): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\program\opencvworkplace\homework\nccplus.cpp(191,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\program\opencvworkplace\homework\nccplus.cpp(192,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  nccmatch.vcxproj -> D:\program\opencvworkplace\nccmatch\x64\Debug\nccmatch.exe

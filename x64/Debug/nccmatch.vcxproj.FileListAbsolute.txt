@@ -1,0 +1,2 @@
+D:\program\opencvworkplace\nccmatch\x64\Debug\nccmatch.exe
+D:\program\opencvworkplace\nccmatch\x64\Debug\nccmatch.pdb
